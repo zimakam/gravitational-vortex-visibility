@@ -1,0 +1,23 @@
+{
+  "title": "GravitationalVortex: Gravity from Vorticity via FFT-Poisson",
+  "description": "Novel model where gravity emerges from vortex field. Density ρ(x) = κ·Σ|ω_i(x)|² is derived from vorticity, and gravitational potential satisfies ∇²φ = 4πGρ. Solved via FFT. Unlike classical approach (mass → gravity), here vorticity plays the role of mass.",
+  "creators": [
+    {
+      "name": "Ziyavutdinov, Magomed Kamalovich",
+      "affiliation": "Independent Researcher",
+      "orcid": "0009-0005-9212-9921"
+    }
+  ],
+  "keywords": [
+    "gravitation",
+    "vortex dynamics",
+    "FFT-Poisson",
+    "emergent gravity",
+    "vorticity",
+    "field theory"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "language": "eng"
+}
